@@ -25,5 +25,5 @@
 
 #### Statistics
 
-<img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandaRafaele&show_icons=true&locale=en&layout=compact" alt="AnandaRafaele" />
-<img  align="right" height="160" src="https://github-readme-stats.vercel.app/api?username=AnandaRafaele&show_icons=true&locale=en" alt="AnandaRafaele" /></p>
+<img align="left" height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandaRafaele&show_icons=true&locale=en&layout=compact" alt="AnandaRafaele" />
+<img  align="right" height="170" src="https://github-readme-stats.vercel.app/api?username=AnandaRafaele&show_icons=true&locale=en" alt="AnandaRafaele" /></p>
