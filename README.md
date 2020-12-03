@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Ananda ✌️</h1>
+<h1 align="center">Hi, I'm Ananda ✌️😊</h1>
 <h3 align="center">I'm a programmer... Mostly front-end 👩‍💻</h3>
 
 -  I’m currently working on **Brisanet Telecomunicações**
@@ -25,5 +25,5 @@
 
 #### Statistics
 
-<img align="left" height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandaRafaele&show_icons=true&locale=en&layout=compact" alt="AnandaRafaele" />
-<img  align="right" height="180" src="https://github-readme-stats.vercel.app/api?username=AnandaRafaele&show_icons=true&locale=en" alt="AnandaRafaele" /></p>
+<img align="left" height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnandaRafaele&show_icons=true&locale=en&layout=compact" alt="AnandaRafaele" />
+<img  align="right" height="160" src="https://github-readme-stats.vercel.app/api?username=AnandaRafaele&show_icons=true&locale=en" alt="AnandaRafaele" /></p>
