@@ -12,7 +12,7 @@
 
 - All of my projects are available at [github.com/AnandaRafaele](github.com/AnandaRafaele)
 
-> "Do or do not there is no try"
+> "Do. Or do not. There is no try."
 
 #### How to reach me:
 <p>
