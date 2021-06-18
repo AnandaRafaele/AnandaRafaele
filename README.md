@@ -2,9 +2,9 @@
 <h1 align="center">Hi, I'm Ananda ✌️😊</h1>
 <h3 align="center">I'm a programmer... Mostly front-end 👩‍💻</h3>
 
--  I’m currently working on **Brisanet Telecomunicações**
+-  I’m currently working on **CI&T**
 
--  I’m currently learning **Angular**
+-  I’m currently learning **React JS**
 
 -  I’m looking to collaborate on **React Native/React JS/Angular projects **
 
