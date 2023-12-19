@@ -17,7 +17,7 @@
 #### How to reach me:
 <p>
 <a href="https://www.linkedin.com/in/ananda-rafaele-72ba55150/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Ananda's linkedin" height="30" width="40" /></a>
-  <a href="https://hub.docker.com/u/anandarafaeleps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker" alt="Ananda's Docker Hub" /></a>
+  <a href="https://hub.docker.com/u/anandarafaeleps" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/docker.svg" alt="Ananda's Docker Hub" /></a>
 </p>
 
 #### Languages and Tools:
